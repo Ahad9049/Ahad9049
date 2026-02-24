@@ -1,6 +1,35 @@
-# 💫 About Me:
-I’m a Junior DevOps Engineer focused on CI/CD, cloud, automation<br>completed my degree in BSCS<br>I’ve worked with AWS, Docker, Jenkins, Git, and Linux, and built hands-on projects like CI/CD pipelines and cloud deployments.<br>Currently looking for junior or trainee DevOps roles where I can grow and contribute.
+# 💫 Hi 👋, I'm Abdul Ahad
+## 👨‍💻 About Me  
+I’m a passionate **Junior DevOps Engineer** with a strong focus on:  
 
+- 🔄 CI/CD Pipelines  
+- ☁️ Cloud Computing  
+- 🤖 Automation  
+
+🎓 Completed my **BSCS** degree and built hands-on, real-world projects to strengthen my practical skills.
+
+## 🚀 Projects & Experience  
+
+- ✅ Built complete **CI/CD pipelines** from scratch  
+- ✅ Deployed applications on **cloud infrastructure**  
+- ✅ Automated workflows for faster and reliable deployments  
+- ✅ Worked with containerized environments using Docker  
+
+---
+
+## 🎯 Career Objective  
+
+I am currently seeking **Junior / Trainee DevOps Engineer** roles where I can:  
+
+- 📈 Grow technically and professionally  
+- 🤝 Contribute to real-world projects  
+- ⚡ Deliver efficient and automated solutions  
+
+---
+
+## 📬 Let’s Connect  
+
+I’m always open to learning, collaboration, and new opportunities in DevOps & Cloud Engineering.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulahad9049) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulahad.devops@gmail.com) 
@@ -11,6 +40,14 @@ I’m a Junior DevOps Engineer focused on CI/CD, cloud, automation<br>completed 
 ![](https://github-readme-stats.vercel.app/api?username=Ahad9049&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ahad9049&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad9049&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div><br>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ahad9049&theme=radical&no-frame=false&no-bg=true&margin-w=4)
