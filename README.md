@@ -68,11 +68,9 @@ Let’s build something reliable, automated, and impactful.
 <a href="https://www.linkedin.com/in/abdulahad9049/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin"/>
 </a>
-
 <a href="mailto:abdulahad.devops@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail"/>
 </a>
-
 <a href="https://www.instagram.com/its_me_ahad____/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram"/>
 </a>
@@ -119,23 +117,19 @@ Every project focuses on **automation, reliability, and real industry workflow.*
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+<div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Ahad9049&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+### ✍️ DevOps Quote
 
-<br><br>
+<table>
+<tr>
+<td>
 
-### ✍️ Random Dev Quote
+🚀 **"DevOps is not just about tools — it's about building systems that deploy faster, fail less, and recover instantly."**
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br><br>
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Ahad9049&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<br><br>
+</td>
+</tr>
+</table>
 
 </div>
 
