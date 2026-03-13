@@ -1,7 +1,13 @@
-# 💫 Hi 👋, I'm Abdul Ahad
-# 🌟 About Me  
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdul+Ahad!;DevOps+Engineer+💻;" />
+</h1>
 
-👋 Hi, I’m **Abdul Ahad** — a driven and detail-oriented **Junior DevOps Engineer** passionate about building reliable, automated, and scalable systems.
+<h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
+<h2 align="center">👋 Hi, I’m Abdul Ahad — a driven and detail-oriented Junior DevOps Engineer passionate about building reliable, automated, and scalable systems.</h2>
+
+<br/>
+
+# 🌟 About Me  
 
 I specialize in:
 
@@ -14,108 +20,127 @@ I specialize in:
 🎓 BSCS Graduate with hands-on, production-style DevOps projects that reflect real-world engineering practices — not just theory.
 
 
-# 💻 Tech Stack:
+<div align="center">
 
-###
+# 💻 Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+<br>
 
-###
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
 
-# 📬 Let’s Connect  
+<br><br>
+
+# 📬 Let’s Connect
 
 💬 Open to opportunities, collaboration, and meaningful tech conversations.  
 🌍 Interested in remote and onsite DevOps roles.  
 
 Let’s build something reliable, automated, and impactful.
 
-## 🌐 Socials:
+<br>
 
-###
+## 🌐 Socials
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/abdulahad9049/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
+<a href="https://www.linkedin.com/in/abdulahad9049/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin"/>
+</a>
 
-  <a href="mailto:abdulahad.devops@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
+<a href="mailto:abdulahad.devops@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail"/>
+</a>
 
-  <a href="https://www.instagram.com/its_me_ahad____/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-</div>
+<a href="https://www.instagram.com/its_me_ahad____/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram"/>
+</a>
 
-
-###
-
-</div><br>
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 # 🚀 Projects & Practical Experience  
 
 I don’t just study DevOps — I build it.
 
-- 🛠 Designed and implemented complete **end-to-end CI/CD pipelines**
-- ☁️ Deployed applications on **cloud servers (AWS EC2)**
-- 🐳 Built and optimized **Dockerized environments**
-- 🔐 Managed secure credentials for automated deployments
-- ⚡ Automated workflows to eliminate manual deployment steps
-- 📦 Structured clean, production-ready DevOps repositories
+🛠 Designed and implemented complete **end-to-end CI/CD pipelines**  
+☁️ Deployed applications on **cloud servers (AWS EC2)**  
+🐳 Built and optimized **Dockerized environments**  
+🔐 Managed secure credentials for automated deployments  
+⚡ Automated workflows to eliminate manual deployment steps  
+📦 Structured clean, production-ready DevOps repositories  
 
-Every project focuses on automation, reliability, and real industry workflow.
+Every project focuses on **automation, reliability, and real industry workflow.**
 
----
+<br>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zohaibxJackie/zohaibxJackie/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ahad9049&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ahad9049&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad9049&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 📊 GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=Ahad9049&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
+
+<br>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Ahad9049&theme=dark&hide_border=false"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad9049&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+
+<br><br>
+
+<div align="center">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ahad9049&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=Ahad9049&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+<br><br>
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<br><br>
+
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=Ahad9049&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ahad9049&icon=0&color=0)](https://visitcount.itsvg.in)
+<br><br>
+
+</div>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+Us!+💖;Let's+Connect!+🚀;" />
+</h1>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
