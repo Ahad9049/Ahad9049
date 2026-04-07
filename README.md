@@ -51,9 +51,11 @@ I specialize in:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"/>
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
-
+<div>
+    
 # 🚀 Projects & Practical Experience  
 
+<div align="left">
 I don’t just study DevOps — I build it.
 
 🛠 Designed and implemented complete **end-to-end CI/CD pipelines**  
@@ -87,14 +89,6 @@ Every project focuses on **automation, reliability, and real industry workflow.*
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahad9049&theme=radical&utcOffset=5">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Ahad9049&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahad9049&theme=radical">
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad9049&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=Ahad9049&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ahad9049&theme=dark&hide_border=false)
-
-<br>
 
 <!-- Snake Game Repo View -->
 
