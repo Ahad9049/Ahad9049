@@ -12,8 +12,10 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      # Checkout repo
+      # Checkout repo with full history
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       # Generate snake
       - name: Generate snake
@@ -22,13 +24,30 @@ jobs:
           github_user_name: Ahad9049
           outputs: output/github-contribution-grid-snake.svg
 
-      # Commit and push using built-in token
+      # Commit and push with proper merge handling
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Fetch and checkout output branch
+          git fetch origin output || true
+          if git show-ref --verify --quiet refs/remotes/origin/output; then
+            git checkout output
+            git pull origin output --rebase
+          else
+            git checkout --orphan output
+            git rm -rf . || true
+          fi
+          
+          # Ensure output directory exists
+          mkdir -p output
+          
+          # Add and commit the snake file
           git add output/github-contribution-grid-snake.svg
-          git commit -m "Update snake"
-          git push origin HEAD:output
+          git commit -m "Update snake animation [skip ci]" || echo "No changes to commit"
+          
+          # Push to output branch
+          git push origin output --force
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
