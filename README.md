@@ -52,31 +52,6 @@ I specialize in:
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
 
-<br><br>
-
-# 📬 Let’s Connect
-
-💬 Open to opportunities, collaboration, and meaningful tech conversations.  
-🌍 Interested in remote and onsite DevOps roles.  
-
-Let’s build something reliable, automated, and impactful.
-
-<br>
-
-## 🌐 Socials
-
-<a href="https://www.linkedin.com/in/abdulahad9049/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin"/>
-</a>
-<a href="mailto:abdulahad.devops@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail"/>
-</a>
-<a href="https://www.instagram.com/its_me_ahad____/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram"/>
-</a>
-
-</div>
-
 # 🚀 Projects & Practical Experience  
 
 I don’t just study DevOps — I build it.
@@ -101,23 +76,56 @@ Every project focuses on **automation, reliability, and real industry workflow.*
 
 
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ahad9049&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahad9049&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahad9049&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahad9049&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahad9049&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahad9049&theme=radical&utcOffset=5">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Ahad9049&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahad9049&theme=radical">
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad9049&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=Ahad9049&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ahad9049&theme=dark&hide_border=false)
 
 <br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Ahad9049&theme=dark&hide_border=false"/>
+<!-- Snake Game Repo View -->
 
-<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ahad9049/Ahad9049/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad9049&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 
+## 🌐 Socials
+
+<a href="https://www.linkedin.com/in/abdulahad9049/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin"/>
+</a>
+<a href="mailto:abdulahad.devops@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail"/>
+</a>
+<a href="https://www.instagram.com/its_me_ahad____/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram"/>
+</a>
 <br><br>
 
-<div align="center">
+# 📬 Let’s Connect
 
-<div align="center">
+💬 Open to opportunities, collaboration, and meaningful tech conversations.  
+🌍 Interested in remote and onsite DevOps roles.  
+
+Let’s build something reliable, automated, and impactful.
+
+<br>
+
+</div>
 
 ### ✍️ DevOps Quote
 
