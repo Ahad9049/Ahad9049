@@ -13,19 +13,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout the repo
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Generate snake SVG
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: Ahad9049
           outputs: output/github-contribution-grid-snake.svg
 
-      - name: Push snake to output branch
+      # Push snake to output branch using your personal token
+      - name: Push snake
         uses: crazy-max/ghaction-github-pages@v3
+        env:
+          PERSONAL_TOKEN: ${{ secrets.GH_PAT }}
         with:
           target_branch: output
           build_dir: output
-        env:
-          PERSONAL_TOKEN: ${{ secrets.GH_PAT }}
