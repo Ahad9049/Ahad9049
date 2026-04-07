@@ -2,8 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdul+Ahad!;DevOps+Engineer+💻;" />
 </h1>
 
-<h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
-<h2 align="center">👋 Hi, I’m Abdul Ahad — a driven and detail-oriented Junior DevOps Engineer passionate about building reliable, automated, and scalable systems.</h2>
+<h2 align="center">🚀 Welcome to my GitHub universe! 🚀</h2>
+<h4 align="center">👋 Hi, I’m Abdul Ahad — a driven and detail-oriented Junior DevOps Engineer passionate about building reliable, automated, and scalable systems.</h4>
 
 <br/>
 
@@ -56,14 +56,14 @@ I specialize in:
 # 🚀 Projects & Practical Experience  
 
 <div align="left">
-I don’t just study DevOps — I build it.
+I don’t just study DevOps — I build it:
 
-🛠 Designed and implemented complete **end-to-end CI/CD pipelines**  
-☁️ Deployed applications on **cloud servers (AWS EC2)**  
-🐳 Built and optimized **Dockerized environments**  
-🔐 Managed secure credentials for automated deployments  
-⚡ Automated workflows to eliminate manual deployment steps  
-📦 Structured clean, production-ready DevOps repositories  
+- 🛠 Designed and implemented complete **end-to-end CI/CD pipelines**  
+- ☁️ Deployed applications on **cloud servers (AWS EC2)**  
+- 🐳 Built and optimized **Dockerized environments**  
+- 🔐 Managed secure credentials for automated deployments  
+- ⚡ Automated workflows to eliminate manual deployment steps  
+- 📦 Structured clean, production-ready DevOps repositories  
 
 Every project focuses on **automation, reliability, and real industry workflow.**
 
@@ -93,7 +93,7 @@ Every project focuses on **automation, reliability, and real industry workflow.*
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ahad9049/Ahad9049/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/Ahad9049/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </div>
 
 
