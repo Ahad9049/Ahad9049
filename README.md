@@ -1,4 +1,4 @@
-<h1 align="center">
+ <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdul+Ahad!;DevOps+Engineer+💻;" />
 </h1>
 
@@ -93,7 +93,7 @@ Every project focuses on **automation, reliability, and real industry workflow.*
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ahad9049/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/Ahad9049/Ahad9049/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </div>
 
 
