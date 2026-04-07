@@ -99,7 +99,7 @@ Every project focuses on **automation, reliability, and real industry workflow.*
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ahad9049/Ahad9049/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Ahad9049/Ahad9049/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </div>
 
 
