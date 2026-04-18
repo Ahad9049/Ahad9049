@@ -67,15 +67,6 @@ I don’t just study DevOps — I build it:
 
 Every project focuses on **automation, reliability, and real industry workflow.**
 
-<br>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zohaibxJackie/zohaibxJackie/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 
 
 # 📊 GitHub Stats:
@@ -108,7 +99,6 @@ Every project focuses on **automation, reliability, and real industry workflow.*
 <a href="https://www.instagram.com/its_me_ahad____/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram"/>
 </a>
-<br><br>
 
 # 📬 Let’s Connect
 
@@ -136,7 +126,7 @@ Let’s build something reliable, automated, and impactful.
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+Us!+💖;Let's+Connect!+🚀;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+💖;Let's+Connect!+🚀;" />
 </h1>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
