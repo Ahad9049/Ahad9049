@@ -1,53 +1,31 @@
-name: GitHub Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: "0 0 * * *"   # Runs every day at midnight
+  workflow_dispatch:        # Allows manual trigger
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    steps:
-      # Checkout repo with full history
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
+    timeout-minutes: 10
 
-      # Generate snake
-      - name: Generate snake
-        uses: Platane/snk@v3
+    steps:
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Ahad9049
-          outputs: output/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Commit and push with proper merge handling
-      - name: Commit and push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Fetch and checkout output branch
-          git fetch origin output || true
-          if git show-ref --verify --quiet refs/remotes/origin/output; then
-            git checkout output
-            git pull origin output --rebase
-          else
-            git checkout --orphan output
-            git rm -rf . || true
-          fi
-          
-          # Ensure output directory exists
-          mkdir -p output
-          
-          # Add and commit the snake file
-          git add output/github-contribution-grid-snake.svg
-          git commit -m "Update snake animation [skip ci]" || echo "No changes to commit"
-          
-          # Push to output branch
-          git push origin output --force
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
