@@ -33,34 +33,51 @@ Focus    : Cloud Infrastructure · Kubernetes · CI/CD · Automation
 <td align="center" width="200">
   <img src="https://img.shields.io/badge/Kubernetes-KIND%20Cluster-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br/>
   <b>3-Tier K8s Deployment</b><br/>
-  <sub>Full MERN stack on KIND + AWS EC2 with Ingress, HPA, RBAC & Observability</sub>
+  <sub>Full MERN stack on KIND + AWS EC2 with Ingress, HPA, VPA, RBAC & full Observability</sub>
 </td>
 <td align="center" width="200">
   <img src="https://img.shields.io/badge/CI%2FCD-Jenkins%20Pipeline-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/><br/>
   <b>End-to-End CI/CD</b><br/>
-  <sub>Automated build → push to AWS ECR → deploy to Kubernetes pipeline</sub>
+  <sub>Automated build → push to AWS ECR → deploy to Kubernetes pipeline with zero downtime</sub>
 </td>
 <td align="center" width="200">
   <img src="https://img.shields.io/badge/AWS-Cloud%20Infra-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br/>
   <b>AWS Infrastructure</b><br/>
-  <sub>EC2, ECR, ECS Fargate, IAM roles — no static keys, all secure</sub>
+  <sub>EC2, ECR, ECS Fargate, IAM roles — no static keys, fully secure by design</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="200">
   <img src="https://img.shields.io/badge/Monitoring-Prometheus%20%2B%20Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/><br/>
   <b>Full Observability Stack</b><br/>
-  <sub>Prometheus + Grafana + EFK (Elasticsearch, Fluentd, Kibana)</sub>
+  <sub>Prometheus + Grafana + EFK (Elasticsearch, Fluentd, Kibana) across all namespaces</sub>
 </td>
 <td align="center" width="200">
   <img src="https://img.shields.io/badge/Security-RBAC%20%2B%20Secrets-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br/>
   <b>Security Hardening</b><br/>
-  <sub>K8s Secrets, RBAC, NetworkPolicies, LimitRanges, ResourceQuotas</sub>
+  <sub>K8s Secrets, RBAC (namespace + cluster scope), NetworkPolicies, LimitRanges, ResourceQuotas</sub>
+</td>
+<td align="center" width="200">
+  <img src="https://img.shields.io/badge/Helm-Package%20Manager-0F1689?style=for-the-badge&logo=helm&logoColor=white"/><br/>
+  <b>Helm Chart Deployments</b><br/>
+  <sub>Umbrella charts + subcharts for Flask + NGINX — reusable, environment-based configs</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+  <img src="https://img.shields.io/badge/Autoscaling-HPA%20%2B%20VPA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br/>
+  <b>Smart Autoscaling</b><br/>
+  <sub>HPA on stateless services (React + Node.js) · VPA on MongoDB StatefulSet for right-sizing</sub>
+</td>
+<td align="center" width="200">
+  <img src="https://img.shields.io/badge/Storage-PV%20%2B%20PVC-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br/>
+  <b>Persistent Storage</b><br/>
+  <sub>StorageClass + PersistentVolume + PVC + StatefulSet — MongoDB data survives pod restarts</sub>
 </td>
 <td align="center" width="200">
   <img src="https://img.shields.io/badge/Docker-Multi--Stage%20Builds-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br/>
   <b>Optimized Containers</b><br/>
-  <sub>Multi-stage Docker builds — minimal image size, zero dev dependencies</sub>
+  <sub>Multi-stage Docker builds — minimal image size, zero dev dependencies in production</sub>
 </td>
 </tr>
 </table>
@@ -71,24 +88,24 @@ Focus    : Cloud Infrastructure · Kubernetes · CI/CD · Automation
 
 ### 🏗️ [Three-Tier MERN App — Kubernetes (KIND + AWS EC2)](https://github.com/Ahad9049/three-tier-application-k8s)
 
-> Production-grade MERN stack deployed on a KIND Kubernetes cluster hosted on AWS EC2.
+> Production-grade MERN stack deployed on a KIND Kubernetes cluster hosted on AWS EC2. Built from scratch — not a managed service.
 
 | Feature | Details |
 |---|---|
-| 🔀 Ingress | NGINX Ingress Controller — path-based routing |
-| 📈 Autoscaling | HPA on frontend & backend pods |
-| 🔒 Security | K8s Secrets · RBAC · NetworkPolicies |
+| 🔀 Ingress | NGINX Ingress Controller — path & host based routing, SSL redirect via annotations |
+| 📈 Autoscaling | HPA on frontend & backend · VPA on MongoDB StatefulSet |
+| 🔒 Security | K8s Secrets · RBAC (namespace + cluster) · NetworkPolicies |
 | 📦 Resource Mgmt | LimitRanges + ResourceQuotas per namespace |
-| 💾 Storage | PersistentVolume + PVC |
+| 💾 Storage | StorageClass + PersistentVolume + PVC + StatefulSet for MongoDB |
 | 🔁 CI/CD | Jenkins → AWS ECR → K8s rolling deploy |
 | 📊 Monitoring | Prometheus + Grafana + EFK Stack |
+| ⛵ Helm | Umbrella chart + subcharts — reusable, environment-based deployments |
 
 ---
 
 ## 💻 Tech Stack
 
 <div align="center">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="45" alt="aws"/>
 <img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker"/>
@@ -114,7 +131,6 @@ Focus    : Cloud Infrastructure · Kubernetes · CI/CD · Automation
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github"/>
 <img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode"/>
-
 </div>
 
 ---
@@ -140,7 +156,6 @@ Focus    : Cloud Infrastructure · Kubernetes · CI/CD · Automation
 ## 🌐 Connect With Me
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/abdulahad9049/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Ahad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -156,15 +171,12 @@ Focus    : Cloud Infrastructure · Kubernetes · CI/CD · Automation
 <a href="https://www.instagram.com/its_me_ahad____/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-its__me__ahad____-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
 </div>
 
 <br/>
 
 <div align="center">
-
-💬 **Open to remote & onsite DevOps roles, collaboration, and meaningful tech conversations.**
-
+  💬 <b>Open to remote & onsite DevOps roles, collaboration, and meaningful tech conversations.</b>
 </div>
 
 ---
@@ -178,4 +190,5 @@ Focus    : Cloud Infrastructure · Kubernetes · CI/CD · Automation
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+💖;Let's+build+something+great!+🚀" />
 </h1>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
