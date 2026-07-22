@@ -15,7 +15,7 @@
 
 ```yaml
 Name     : Abdul Ahad
-Role     : Junior DevOps Engineer
+Role     : DevOps Engineer
 Location : Rawalpindi, Pakistan
 Education: BSCS Graduate
 Email    : abdulahad.devops@gmail.com
